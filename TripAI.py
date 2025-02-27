@@ -4,7 +4,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from google.api_core.retry import Retry
 
 # Load API key
-file_path = "gemini_key.txt"
+file_path = "/Python_Challenges/gemini_key.txt"
 if os.path.exists(file_path):
     with open(file_path, "r") as f:
         gemini_key = f.read().strip()
