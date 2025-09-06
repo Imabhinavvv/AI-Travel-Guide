@@ -88,5 +88,3 @@ You can install them manually or via `requirements.txt`.
 - User authentication and saved itineraries.
 
 ---
-
-Feel free to tweak the tone or structure to match your book’s aesthetic or portfolio style. Want a logo or visual diagram to go with it? I can help sketch that out too.
