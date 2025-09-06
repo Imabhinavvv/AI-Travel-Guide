@@ -1,7 +1,3 @@
-Absolutely, Abhinav! Here's a clean and informative `README.md` tailored for your AI Traveller Streamlit app, with clarity, minimalism, and practical impact in mind:
-
----
-
 # 🌍 AI Traveller – Your Smart Travel Companion 🧳
 
 AI Traveller is a Streamlit-powered web app that helps users plan their journeys with intelligent recommendations. Powered by Google's Gemini model via LangChain, it offers personalized travel suggestions based on user preferences like budget, speed, comfort, and language.
